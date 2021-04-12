@@ -1,20 +1,20 @@
 # Built with Jekyll 3.6.0
 
 # Setup
-title:               Ed.
-tagline:             'a jekyll theme for minimal editions'
-description:         'Ed is a Jekyll theme designed for textual editors based on minimal computing principles, and focused on legibility and flexibility.'
-url:                 'http://minicomp.github.io'
+title:               伊萨卡
+tagline:             '谶不重要，重要的是成。'
+description:         '我心灵的后花园。分享自己的知识，思考与人生。'
+# url:                 'http://minicomp.github.io'
 baseurl:             '/ed'
 
 # About/contact
 author:
-  name:              Alex Gil
-  url:               https://twitter.com/elotroalex
-  email:             colibri.alex@gmail.com
+  name:              明豫
+  # url:               https://twitter.com/elotroalex
+  email:             pyrha@pm.me
 
 # Color scheme. Options: red, orange, magenta, cyan, blue, brown
-color-scheme:
+color-scheme: blue
 
 # Permalinks
 permalink: pretty
