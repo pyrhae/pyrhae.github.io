@@ -1,12 +1,7 @@
 ---
-layout: poem
-title: rfffffffffff
-author: Julia de Burgos
-editor: Alex Gil
-source: Ciudad Seva
+layout: post
+title: 向量
+author: Norsesun
 ---
 
-
-
-
-sdddddddddddddddd
+什么是向量
