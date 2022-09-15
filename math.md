@@ -52,6 +52,8 @@ author: 明豫
 
 [探照灯模型PDF](./pdf/%E6%8E%A2%E7%85%A7%E7%81%AF%E6%A8%A1%E5%9E%8B.pdf)
 
+    探照灯模型是定角定高，我们思维发散一下，思考：定底定高，求顶角的最大值。
+    
 <!-- [永久链接](https://github.com/pyrhae/beamer_for_blog/blob/main/beamers/junior/%E6%8E%A2%E7%85%A7%E7%81%AF%E6%A8%A1%E5%9E%8B.pdf) -->
 # 2. 高中数学
 <!-- ### 数学哲思
