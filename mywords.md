@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 随笔
+title: 诗芠
 author: 明豫
 ---
 
